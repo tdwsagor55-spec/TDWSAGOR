@@ -1,0 +1,6 @@
+{
+  "name": "Magic Photo & Video Editor",
+  "description": "All-in-one AI Photo and Video Editor with real-time filters, background removal, face & hair tools, video timeline editor, AI generation, and English/Bengali bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
